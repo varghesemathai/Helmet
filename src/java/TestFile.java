@@ -6,6 +6,10 @@ public class TestsFile{
 		//Create the starting code here
 		//Add first Line 
 		//Add second Line 
+		//Add Third Line 
 	}
 
+	private void testMethod(){
+		
+	}
 }
