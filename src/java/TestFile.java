@@ -10,6 +10,13 @@ public class TestsFile{
 	}
 
 	private void testMethod(){
+		//Line 1
+	}
+	private void testMethod1(){
+		//Line 1
+	}
+	
+	private void testMethod2(){
 		
 	}
 	private void testMethod1(){
