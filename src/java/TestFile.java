@@ -12,4 +12,11 @@ public class TestsFile{
 	private void testMethod(){
 		
 	}
+	private void testMethod1(){
+		
+	}
+	
+	private void testMethod2(){
+		
+	}
 }
