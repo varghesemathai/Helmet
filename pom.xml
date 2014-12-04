@@ -12,6 +12,12 @@
 			<artifactId>mydep-1<artifactId>
 			<version>1.0-snapshot</version>
 		</dependency>
+		<dependency>
+			<groupId>com.mycomp.myproj</groupId>
+			<artifactId>mydep-2<artifactId>
+			<version>1.0-snapshot</version>
+		</dependency>
 	</dependencies>
+	
 	
 </project>
