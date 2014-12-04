@@ -3,6 +3,15 @@
 
 	<groupId>com.mycomp.myproj</groupId>
 	<artifactId>myproj<artifactId>
-	<version>1.0.0</version>
-
+	<version>1.0-snapshot</version>
+	
+	
+	<dependencies>
+		<dependency>
+			<groupId>com.mycomp.myproj</groupId>
+			<artifactId>mydep-1<artifactId>
+			<version>1.0-snapshot</version>
+		</dependency>
+	</dependencies>
+	
 </project>
